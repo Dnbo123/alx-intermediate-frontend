@@ -1,0 +1,4 @@
+Checked if Node.js is installed by running: node -v
+Checked forthe npm version using: npm -v
+Installed SASS globally using npm: npm install -g sass
+verified the sass version using: saas --version
